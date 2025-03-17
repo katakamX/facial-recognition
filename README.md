@@ -16,8 +16,8 @@
 ## Getting Started
 How to use
 ```    
-git clone https://github.com/aakashjhawar/face-recognition-using-opencv
-cd face-recognition-using-opencv
+git clone https://github.com/katakamX/facial-recognition
+cd facial-recognition
 ```
  - Create dataset of face images.
  - Place the face images in dataset folder.
@@ -36,9 +36,5 @@ cd face-recognition-using-opencv
 sudo apt-get install python-opencv
 ```
 
-## Results 
-
-#### Detect and recognize faces from video camera-
-![Result](https://github.com/aakashjhawar/face-recognition-using-opencv/blob/master/images/output1.png)
 
 
